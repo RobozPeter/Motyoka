@@ -1,0 +1,32 @@
+body{
+    background-image: url(./img/hatter.jpg); 
+}
+.fejlec{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -8px;
+     display: block;
+    }
+.aka {
+    position: absolute;
+     left: 825px;
+     top: 15px;
+    }
+    
+.container {position: relative;}
+table {margin-left: auto;
+     margin-right: auto; width: 40%;
+    border-collapse: collapse;}
+     
+      
+      .td1{width: 230px; vertical-align: top;background-color: #e8e8e8;color: #800000;}
+      .p {margin-left: 20%; color: #800000;}
+      .td2{vertical-align: bottom;background-color: #e8e8e8; display:flex ;}
+      .td3{background-color: #ffffff;background-image: url(./img/tartalomkep.jpg);
+         background-repeat: no-repeat;
+         background-position: right top;
+        }
+p,h1{color: #484848 ;}
+.td4{background-color: #ffffff}
+
+
